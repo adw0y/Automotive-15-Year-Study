@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: TOYOTA-2013-20F
+================================================================================
+Company:               Toyota Motor Corporation
+Reporting Year:        FY2012-13
+Document Title:        Toyota Motor Corporation Annual Report / Form 20-F FY2013
+Target PDF Filename:   Toyota_Motor_Corporation_FY2012-13_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.toyotamotorcorporation.com/investors/FY2012-13
+Audited Page Numbers:  Financials: p.96, R&D/Tech: p.36
+Filing Notes:          Official consolidated statutory filing for Apr 2012 - Mar 2013
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

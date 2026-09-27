@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: HONDA-2024-20F
+================================================================================
+Company:               Honda Motor Co., Ltd.
+Reporting Year:        FY2023-24
+Document Title:        Honda Motor Co., Ltd. Annual Report / Form 20-F FY2024
+Target PDF Filename:   Honda_Motor_Co.,_Ltd._FY2023-24_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.hondamotorcoltd.com/investors/FY2023-24
+Audited Page Numbers:  Financials: p.134, R&D/Tech: p.54
+Filing Notes:          Official consolidated statutory filing for Apr 2023 - Mar 2024
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

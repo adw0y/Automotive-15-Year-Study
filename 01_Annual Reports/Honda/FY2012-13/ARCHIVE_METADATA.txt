@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: HONDA-2013-20F
+================================================================================
+Company:               Honda Motor Co., Ltd.
+Reporting Year:        FY2012-13
+Document Title:        Honda Motor Co., Ltd. Annual Report / Form 20-F FY2013
+Target PDF Filename:   Honda_Motor_Co.,_Ltd._FY2012-13_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.hondamotorcoltd.com/investors/FY2012-13
+Audited Page Numbers:  Financials: p.90, R&D/Tech: p.32
+Filing Notes:          Official consolidated statutory filing for Apr 2012 - Mar 2013
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

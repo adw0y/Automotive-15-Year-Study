@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: HONDA-2019-20F
+================================================================================
+Company:               Honda Motor Co., Ltd.
+Reporting Year:        FY2018-19
+Document Title:        Honda Motor Co., Ltd. Annual Report / Form 20-F FY2019
+Target PDF Filename:   Honda_Motor_Co.,_Ltd._FY2018-19_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.hondamotorcoltd.com/investors/FY2018-19
+Audited Page Numbers:  Financials: p.114, R&D/Tech: p.44
+Filing Notes:          Official consolidated statutory filing for Apr 2018 - Mar 2019
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

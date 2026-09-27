@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: JSW-2025-JV
+================================================================================
+Company:               JSW Motors
+Reporting Year:        FY2024-25
+Document Title:        JSW MG Motor India Statutory Filings & JSW Group Disclosures FY2024-25
+Target PDF Filename:   JSW_Motors_FY2024-25_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.jswmotors.com/investors/FY2024-25
+Audited Page Numbers:  Financials: p.28, R&D/Tech: p.15
+Filing Notes:          Official consolidated statutory filing for Apr 2024 - Mar 2025
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

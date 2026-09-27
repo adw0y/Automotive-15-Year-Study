@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: MM-2024-AR
+================================================================================
+Company:               Mahindra & Mahindra
+Reporting Year:        FY2023-24
+Document Title:        Mahindra & Mahindra 78th Annual Report 2023-24
+Target PDF Filename:   Mahindra_and_Mahindra_FY2023-24_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.mahindramahindra.com/investors/FY2023-24
+Audited Page Numbers:  Financials: p.220, R&D/Tech: p.102
+Filing Notes:          Official consolidated statutory filing for Apr 2023 - Mar 2024
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

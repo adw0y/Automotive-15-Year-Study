@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: HONDA-2011-20F
+================================================================================
+Company:               Honda Motor Co., Ltd.
+Reporting Year:        FY2010-11
+Document Title:        Honda Motor Co., Ltd. Annual Report / Form 20-F FY2011
+Target PDF Filename:   Honda_Motor_Co.,_Ltd._FY2010-11_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.hondamotorcoltd.com/investors/FY2010-11
+Audited Page Numbers:  Financials: p.82, R&D/Tech: p.28
+Filing Notes:          Official consolidated statutory filing for Apr 2010 - Mar 2011
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

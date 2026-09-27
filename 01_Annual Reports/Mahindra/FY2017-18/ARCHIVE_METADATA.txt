@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: MM-2018-AR
+================================================================================
+Company:               Mahindra & Mahindra
+Reporting Year:        FY2017-18
+Document Title:        Mahindra & Mahindra 72nd Annual Report 2017-18
+Target PDF Filename:   Mahindra_and_Mahindra_FY2017-18_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.mahindramahindra.com/investors/FY2017-18
+Audited Page Numbers:  Financials: p.160, R&D/Tech: p.70
+Filing Notes:          Official consolidated statutory filing for Apr 2017 - Mar 2018
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: TATA-2013-AR
+================================================================================
+Company:               Tata Motors
+Reporting Year:        FY2012-13
+Document Title:        Tata Motors 68th Annual Report 2012-13
+Target PDF Filename:   Tata_Motors_FY2012-13_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.tatamotors.com/investors/FY2012-13
+Audited Page Numbers:  Financials: p.128, R&D/Tech: p.56
+Filing Notes:          Official consolidated statutory filing for Apr 2012 - Mar 2013
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

@@ -1,0 +1,91 @@
+Company,Year,Reporting Period,V01_R&D expendit,V02_R&D intensit,V03_Patent appli,V04_Cumulative p,V05_Patents gran,V06_Number of R&,V07_Cash & cash ,V08_Debt / Equit,V09_Operating Ca,V10_Capex / Reve,V11_ROCE,V12_ICE passenge,V13_ICE sales sh,V14_ICE/PV marke,V15_EV-specific ,V16_EV-specific ,V17_EV investmen,V18_EV productio,V19_Technology p,V20_EV passenger,V21_EV sales pen,V22_EV sales gro,V23_EV market sh,V24_Hydrogen R&D,V25_Employee bas
+Tata Motors,FY2010-11,Apr 2010 - Mar 2011,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,Q,✓,✓,✓,C,NA,NA,Q,✓
+Tata Motors,FY2011-12,Apr 2011 - Mar 2012,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,Q,✓,✓,✓,C,NA,NA,Q,✓
+Tata Motors,FY2012-13,Apr 2012 - Mar 2013,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,Q,✓,✓,✓,C,NA,NA,Q,✓
+Tata Motors,FY2013-14,Apr 2013 - Mar 2014,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,Q,✓,✓,✓,C,NA,NA,Q,✓
+Tata Motors,FY2014-15,Apr 2014 - Mar 2015,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,Q,✓,✓,✓,C,NA,NA,Q,✓
+Tata Motors,FY2015-16,Apr 2015 - Mar 2016,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,Q,✓,✓,✓,C,NA,NA,Q,✓
+Tata Motors,FY2016-17,Apr 2016 - Mar 2017,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,Q,✓,✓,✓,C,NA,NA,Q,✓
+Tata Motors,FY2017-18,Apr 2017 - Mar 2018,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,NA,✓,Q,✓
+Tata Motors,FY2018-19,Apr 2018 - Mar 2019,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Tata Motors,FY2019-20,Apr 2019 - Mar 2020,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Tata Motors,FY2020-21,Apr 2020 - Mar 2021,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Tata Motors,FY2021-22,Apr 2021 - Mar 2022,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Tata Motors,FY2022-23,Apr 2022 - Mar 2023,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Tata Motors,FY2023-24,Apr 2023 - Mar 2024,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Tata Motors,FY2024-25,Apr 2024 - Mar 2025,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2010-11,Apr 2010 - Mar 2011,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,NA,✓,Q,✓
+Mahindra & Mahindra,FY2011-12,Apr 2011 - Mar 2012,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2012-13,Apr 2012 - Mar 2013,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2013-14,Apr 2013 - Mar 2014,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2014-15,Apr 2014 - Mar 2015,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2015-16,Apr 2015 - Mar 2016,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2016-17,Apr 2016 - Mar 2017,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2017-18,Apr 2017 - Mar 2018,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2018-19,Apr 2018 - Mar 2019,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2019-20,Apr 2019 - Mar 2020,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2020-21,Apr 2020 - Mar 2021,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2021-22,Apr 2021 - Mar 2022,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2022-23,Apr 2022 - Mar 2023,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2023-24,Apr 2023 - Mar 2024,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Mahindra & Mahindra,FY2024-25,Apr 2024 - Mar 2025,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓
+Toyota Motor Corporation,FY2010-11,Apr 2010 - Mar 2011,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,NA,✓,✓,✓
+Toyota Motor Corporation,FY2011-12,Apr 2011 - Mar 2012,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Toyota Motor Corporation,FY2012-13,Apr 2012 - Mar 2013,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Toyota Motor Corporation,FY2013-14,Apr 2013 - Mar 2014,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Toyota Motor Corporation,FY2014-15,Apr 2014 - Mar 2015,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Toyota Motor Corporation,FY2015-16,Apr 2015 - Mar 2016,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Toyota Motor Corporation,FY2016-17,Apr 2016 - Mar 2017,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Toyota Motor Corporation,FY2017-18,Apr 2017 - Mar 2018,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Toyota Motor Corporation,FY2018-19,Apr 2018 - Mar 2019,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Toyota Motor Corporation,FY2019-20,Apr 2019 - Mar 2020,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Toyota Motor Corporation,FY2020-21,Apr 2020 - Mar 2021,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Toyota Motor Corporation,FY2021-22,Apr 2021 - Mar 2022,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Toyota Motor Corporation,FY2022-23,Apr 2022 - Mar 2023,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Toyota Motor Corporation,FY2023-24,Apr 2023 - Mar 2024,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Toyota Motor Corporation,FY2024-25,Apr 2024 - Mar 2025,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2010-11,Apr 2010 - Mar 2011,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,NA,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2011-12,Apr 2011 - Mar 2012,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2012-13,Apr 2012 - Mar 2013,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2013-14,Apr 2013 - Mar 2014,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2014-15,Apr 2014 - Mar 2015,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2015-16,Apr 2015 - Mar 2016,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2016-17,Apr 2016 - Mar 2017,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2017-18,Apr 2017 - Mar 2018,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2018-19,Apr 2018 - Mar 2019,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2019-20,Apr 2019 - Mar 2020,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2020-21,Apr 2020 - Mar 2021,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2021-22,Apr 2021 - Mar 2022,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2022-23,Apr 2022 - Mar 2023,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2023-24,Apr 2023 - Mar 2024,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+"Honda Motor Co., Ltd.",FY2024-25,Apr 2024 - Mar 2025,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2010,Jan 2010 - Dec 2010,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,NA,✓,✓,✓
+Hyundai Motor Company,CY2011,Jan 2011 - Dec 2011,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2012,Jan 2012 - Dec 2012,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2013,Jan 2013 - Dec 2013,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2014,Jan 2014 - Dec 2014,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2015,Jan 2015 - Dec 2015,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2016,Jan 2016 - Dec 2016,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2017,Jan 2017 - Dec 2017,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2018,Jan 2018 - Dec 2018,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2019,Jan 2019 - Dec 2019,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2020,Jan 2020 - Dec 2020,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2021,Jan 2021 - Dec 2021,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2022,Jan 2022 - Dec 2022,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2023,Jan 2023 - Dec 2023,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+Hyundai Motor Company,CY2024,Jan 2024 - Dec 2024,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,✓,✓
+JSW Motors,FY2010-11,Apr 2010 - Mar 2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JSW Motors,FY2011-12,Apr 2011 - Mar 2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JSW Motors,FY2012-13,Apr 2012 - Mar 2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JSW Motors,FY2013-14,Apr 2013 - Mar 2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JSW Motors,FY2014-15,Apr 2014 - Mar 2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JSW Motors,FY2015-16,Apr 2015 - Mar 2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JSW Motors,FY2016-17,Apr 2016 - Mar 2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JSW Motors,FY2017-18,Apr 2017 - Mar 2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JSW Motors,FY2018-19,Apr 2018 - Mar 2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JSW Motors,FY2019-20,Apr 2019 - Mar 2020,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JSW Motors,FY2020-21,Apr 2020 - Mar 2021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JSW Motors,FY2021-22,Apr 2021 - Mar 2022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JSW Motors,FY2022-23,Apr 2022 - Mar 2023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JSW Motors,FY2023-24,Apr 2023 - Mar 2024,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,NA,✓,Q,✓
+JSW Motors,FY2024-25,Apr 2024 - Mar 2025,✓,C,✓,✓,✓,✓,C,C,C,C,✓,D,C,✓,Q,NR,✓,✓,✓,✓,C,C,✓,Q,✓

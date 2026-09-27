@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: HONDA-2016-20F
+================================================================================
+Company:               Honda Motor Co., Ltd.
+Reporting Year:        FY2015-16
+Document Title:        Honda Motor Co., Ltd. Annual Report / Form 20-F FY2016
+Target PDF Filename:   Honda_Motor_Co.,_Ltd._FY2015-16_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.hondamotorcoltd.com/investors/FY2015-16
+Audited Page Numbers:  Financials: p.102, R&D/Tech: p.38
+Filing Notes:          Official consolidated statutory filing for Apr 2015 - Mar 2016
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

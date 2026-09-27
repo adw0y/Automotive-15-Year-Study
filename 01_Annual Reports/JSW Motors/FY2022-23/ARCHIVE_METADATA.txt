@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: JSW-2023-NA
+================================================================================
+Company:               JSW Motors
+Reporting Year:        FY2022-23
+Document Title:        JSW Group FY2023 Filings (No Auto Entity)
+Target PDF Filename:   JSW_Motors_FY2022-23_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.jswmotors.com/investors/FY2022-23
+Audited Page Numbers:  Financials: p.NA, R&D/Tech: p.NA
+Filing Notes:          Official consolidated statutory filing for Apr 2022 - Mar 2023
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

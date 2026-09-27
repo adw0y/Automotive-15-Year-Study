@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: TOYOTA-2017-20F
+================================================================================
+Company:               Toyota Motor Corporation
+Reporting Year:        FY2016-17
+Document Title:        Toyota Motor Corporation Annual Report / Form 20-F FY2017
+Target PDF Filename:   Toyota_Motor_Corporation_FY2016-17_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.toyotamotorcorporation.com/investors/FY2016-17
+Audited Page Numbers:  Financials: p.112, R&D/Tech: p.44
+Filing Notes:          Official consolidated statutory filing for Apr 2016 - Mar 2017
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

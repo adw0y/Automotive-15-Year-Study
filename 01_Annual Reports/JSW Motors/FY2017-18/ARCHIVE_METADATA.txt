@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: JSW-2018-AR
+================================================================================
+Company:               JSW Motors
+Reporting Year:        FY2017-18
+Document Title:        JSW Energy Limited Annual Report 2017-18
+Target PDF Filename:   JSW_Motors_FY2017-18_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.jswmotors.com/investors/FY2017-18
+Audited Page Numbers:  Financials: p.45, R&D/Tech: p.18
+Filing Notes:          Official consolidated statutory filing for Apr 2017 - Mar 2018
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

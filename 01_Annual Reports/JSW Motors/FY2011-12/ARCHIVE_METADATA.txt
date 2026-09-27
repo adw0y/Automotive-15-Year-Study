@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: JSW-2012-NA
+================================================================================
+Company:               JSW Motors
+Reporting Year:        FY2011-12
+Document Title:        JSW Group FY2012 Filings (No Auto Entity)
+Target PDF Filename:   JSW_Motors_FY2011-12_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.jswmotors.com/investors/FY2011-12
+Audited Page Numbers:  Financials: p.NA, R&D/Tech: p.NA
+Filing Notes:          Official consolidated statutory filing for Apr 2011 - Mar 2012
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

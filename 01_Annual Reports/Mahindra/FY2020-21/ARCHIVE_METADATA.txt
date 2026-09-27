@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: MM-2021-AR
+================================================================================
+Company:               Mahindra & Mahindra
+Reporting Year:        FY2020-21
+Document Title:        Mahindra & Mahindra 75th Annual Report 2020-21
+Target PDF Filename:   Mahindra_and_Mahindra_FY2020-21_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.mahindramahindra.com/investors/FY2020-21
+Audited Page Numbers:  Financials: p.184, R&D/Tech: p.82
+Filing Notes:          Official consolidated statutory filing for Apr 2020 - Mar 2021
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

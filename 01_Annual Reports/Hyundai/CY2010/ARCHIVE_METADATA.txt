@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: HYUNDAI-2010-AR
+================================================================================
+Company:               Hyundai Motor Company
+Reporting Year:        CY2010
+Document Title:        Hyundai Motor Company Annual Report CY2010
+Target PDF Filename:   Hyundai_Motor_Company_CY2010_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.hyundaimotorcompany.com/investors/CY2010
+Audited Page Numbers:  Financials: p.78, R&D/Tech: p.32
+Filing Notes:          Official consolidated statutory filing for Jan 2010 - Dec 2010
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

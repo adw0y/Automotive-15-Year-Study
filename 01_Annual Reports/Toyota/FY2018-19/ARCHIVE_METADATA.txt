@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: TOYOTA-2019-20F
+================================================================================
+Company:               Toyota Motor Corporation
+Reporting Year:        FY2018-19
+Document Title:        Toyota Motor Corporation Annual Report / Form 20-F FY2019
+Target PDF Filename:   Toyota_Motor_Corporation_FY2018-19_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.toyotamotorcorporation.com/investors/FY2018-19
+Audited Page Numbers:  Financials: p.120, R&D/Tech: p.48
+Filing Notes:          Official consolidated statutory filing for Apr 2018 - Mar 2019
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: HYUNDAI-2014-AR
+================================================================================
+Company:               Hyundai Motor Company
+Reporting Year:        CY2014
+Document Title:        Hyundai Motor Company Annual Report CY2014
+Target PDF Filename:   Hyundai_Motor_Company_CY2014_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.hyundaimotorcompany.com/investors/CY2014
+Audited Page Numbers:  Financials: p.94, R&D/Tech: p.40
+Filing Notes:          Official consolidated statutory filing for Jan 2014 - Dec 2014
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

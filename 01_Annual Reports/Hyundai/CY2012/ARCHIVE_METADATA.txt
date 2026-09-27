@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: HYUNDAI-2012-AR
+================================================================================
+Company:               Hyundai Motor Company
+Reporting Year:        CY2012
+Document Title:        Hyundai Motor Company Annual Report CY2012
+Target PDF Filename:   Hyundai_Motor_Company_CY2012_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.hyundaimotorcompany.com/investors/CY2012
+Audited Page Numbers:  Financials: p.86, R&D/Tech: p.36
+Filing Notes:          Official consolidated statutory filing for Jan 2012 - Dec 2012
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

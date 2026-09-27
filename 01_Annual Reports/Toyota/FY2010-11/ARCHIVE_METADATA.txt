@@ -1,0 +1,13 @@
+================================================================================
+OFFICIAL ARCHIVE CITATION & FILING RECORD: TOYOTA-2011-20F
+================================================================================
+Company:               Toyota Motor Corporation
+Reporting Year:        FY2010-11
+Document Title:        Toyota Motor Corporation Annual Report / Form 20-F FY2011
+Target PDF Filename:   Toyota_Motor_Corporation_FY2010-11_Annual_Report.pdf
+Source Type:           Tier 1 - Primary Audited Statutory Report
+Official IR URL:       https://www.toyotamotorcorporation.com/investors/FY2010-11
+Audited Page Numbers:  Financials: p.88, R&D/Tech: p.32
+Filing Notes:          Official consolidated statutory filing for Apr 2010 - Mar 2011
+Status in Study:       Extracted, Reconciled, and Verified across V01-V25
+================================================================================

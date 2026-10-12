@@ -70,10 +70,13 @@ Automotive 15-Year Study/
 │   └── Supplementary_Sources.md        # Official RBI, IMF, SIAM, JAMA, USPTO sources
 ├── 04_Methodology/                     # Methodological and econometric documentation
 │   ├── Data_Dictionary.md              # Detailed definitions of all 25 variables
+│   ├── Column_Definitions_and_EV_Market_Share.md # Exhaustive column specs & EV share analysis
 │   ├── Calculation_Methodology.md      # Mathematical and accounting formulas
 │   ├── Currency_Conversion_Methodology.md # Historical JPY/INR & KRW/INR matrices
 │   └── Comparability_Notes.md          # Segment scopes and JSW boundary definitions
 └── 05_Analysis/                        # Analytical reports & anomaly audits
+    ├── Annual_Report_Verification_Report.md # Full 15-year statutory filing audit trail
+    ├── EV_Market_Share_Industry_Benchmark.md # Macro industry EV market share (2010–2025)
     ├── Company_Summaries.md            # Comprehensive 10-dimension descriptive report
     ├── Year_over_Year_Anomalies.md     # Institutional explanation of 21 structural shifts
     └── Year_over_Year_Anomalies.csv    # Raw anomaly detection output
